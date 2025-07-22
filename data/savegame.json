@@ -1,0 +1,13 @@
+{
+  "current_scene": "ending_choice",
+  "memories": {
+    "ruined_astrology_book": {
+      "id": "ruined_astrology_book",
+      "text": "I only trust people who know their moon sign. What\u2019s yours again?",
+      "emotional_weight": 3,
+      "held": false,
+      "remembered": false
+    }
+  },
+  "emotional_weight": 0
+}
