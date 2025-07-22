@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Signal Lost
 
 **Signal Lost** is a narrative-driven terminal game about longing, memory, and unconditional love.  
