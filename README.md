@@ -100,11 +100,7 @@ Contributions and suggestions are welcome! Feel free to open issues or pull requ
 
 ## License
 
-MIT License © 2025 Your Name
-
-## Contact
-
-For questions or support, reach out at your.email@example.com
+MIT License © 2025 Henry Elliott
 
 Thank you for playing **Signal Lost**.
 EOF
