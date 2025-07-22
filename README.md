@@ -102,4 +102,4 @@ Contributions and suggestions are welcome! Feel free to open issues or pull requ
 MIT License © 2025 Henry Elliott
 
 Thank you for playing **Signal Lost**.
-EOF
+
