@@ -43,7 +43,7 @@ Explore shattered worlds and reconnect with Morgan through emotional choices and
 
 Use the provided batch file to launch the game in PowerShell with color support:  
 ```bat
-run_game.bat
+start_game.bat
 ```
 
 Or open PowerShell manually and run:  
@@ -55,8 +55,8 @@ python main.py
 
 Make the shell script executable:  
 ```bash
-chmod +x run_game.sh
-./run_game.sh
+chmod +x start_game.sh
+./start_game.sh
 ```
 
 Or run manually:  
@@ -88,8 +88,8 @@ SignalLost/
 ├── utils.py
 ├── game_state.py
 ├── main.py
-├── run_game.bat
-├── run_game.sh
+├── start_game.bat
+├── start_game.sh
 └── README.md
 ```
 
