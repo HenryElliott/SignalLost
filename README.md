@@ -25,8 +25,8 @@ She is peace, beauty, and pain all at once. Every place you visit carries her ec
 
 2. **Clone or download the repository**  
    ```bash
-   git clone https://github.com/yourusername/signal-lost.git
-   cd signal-lost
+   git clone https://github.com/HenryElliott/SignalLost.git
+   cd signallost
    ```
 
 3. **Install dependencies:**  
