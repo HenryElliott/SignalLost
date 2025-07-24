@@ -1,7 +1,7 @@
 # Signal Lost
 
 **Signal Lost** is a narrative-driven terminal game about longing, memory, and unconditional love.  
-Longing for a girl (Morgan) you keep reconnecting with across shattered worlds.
+Longing for a girl you keep reconnecting with across shattered worlds.
 She is peace, beauty, and pain all at once. Every place you visit carries her echoes. The game is about remembering her, understanding yourself, and choosing what parts of love to hold or let go.
 
 
